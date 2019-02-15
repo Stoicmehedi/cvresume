@@ -1150,18 +1150,18 @@ ul.social-icons li a:hover{
 }
 
 .sk-cube-grid {
-  width: 40px;
-  height: 40px;
+  width: 80px;
+  height: 80px;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 .sk-cube-grid .sk-cube {
-  width: 33%;
-  height: 33%;
-  background-color: #F9ED32;
+  width: 50%;
+  height: 50%;
+  background-color: #00bfff;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
           animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
